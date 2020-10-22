@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta name="Vicious Cycles" content="Home Page">
+    <title>Vicious Cyclest</title>
+    </head>
+        <body>
+        <h1>Vicious Cycles</h>
+        <h2>About Us</h>
+        <p>Vicious Cycles Inc is a (your town)-based cycle workshop founded by a few like-minded individuals in late 2010. Our mechanics build the bikes and man the workshop. Our customer service staff attends to the day to day operations. We hope to create and foster a strong passion for the local biking scene because each and every one of us is a biking enthusiast.
+We believe that every machine should be an extension of its owner. We believe in the significance of individualism. We believe in the stories between your cycle and you. We believe in having fun. No matter the circumstances, we bike hard and we bike often. You get on your bike, you ride, you fall, you might get pulled over, you overcome it all and you ride again. It’s a Vicious Cycle! So make it worth the while, don't just be part of the numbers. Ride your cycle, chase your dreams, live your life. </p>
+    </body>
+</html>
